@@ -104,10 +104,10 @@ img {
 }
 
 li a:hover {
-    color: rgba(3, 169, 244, 1)
+    color:
 }
 
 .btn:hover {
-    color: white;
+    color: #03A9F4;
     background-color: gray;
 }
