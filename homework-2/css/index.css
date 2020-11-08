@@ -30,7 +30,6 @@ li {
 a {
     text-decoration: none;
     color: #7D7D7D;
-
 }
 
 .cards {
@@ -78,11 +77,11 @@ img {
     font-family: 'Ubuntu', sans-serif;
     padding: 20px 48px;
     font-size: 14px;
-    line-height: 19px;    
+    line-height: 19px;
     color: #626262;
     background-color: #fff;
     border: 1px solid #626262;
-    margin-bottom: 70px;    
+    margin-bottom: 70px;
 }
 
 .title {
@@ -102,4 +101,13 @@ img {
     font-size: 30px;
     line-height: 40px;
     color: #626262;
+}
+
+li a:hover {
+    color: blue;
+}
+
+.btn:hover {
+    color: white;
+    background-color: gray;
 }
