@@ -69,11 +69,10 @@ a {
 img {
     width: 420px;
     height: 280px;
-    margin-top: 88px;
+    /* margin-top: 88px; */
 }
 
 .btn {
-    margin-left: 510px;
     font-family: 'Ubuntu', sans-serif;
     padding: 20px 48px;
     font-size: 14px;
@@ -81,8 +80,12 @@ img {
     color: #626262;
     background-color: #fff;
     border: 1px solid #626262;
-    margin-bottom: 70px;
+    margin-bottom: 91px;
+    margin-left: 380px;
+    /* margin-right: 566px; */
+    /* margin: 0 auto;*/    
 }
+
 
 .title {
     font-family: 'Ubuntu', sans-serif;
@@ -98,13 +101,13 @@ img {
     font-family: Playfair Display;
     font-style: normal;
     font-weight: normal;
-    font-size: 30px;
+    font-size: 14px;
     line-height: 40px;
     color: #626262;
 }
 
 li a:hover {
-    color:#03A9F4;
+    color: #03A9F4;
 }
 
 .btn:hover {
