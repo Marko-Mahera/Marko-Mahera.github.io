@@ -60,7 +60,7 @@ a {
 
 .about {
     margin-bottom: 40px;
-    margin-right: 77px;
+    /* margin-right: 77px; */
     font-size: 30px;
     line-height: 40px;
     color: #626262;
@@ -102,7 +102,7 @@ img {
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
-    line-height: 40px;
+    line-height: 20px;
     color: #626262;
 }
 
