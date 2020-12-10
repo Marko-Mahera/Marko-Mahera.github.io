@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Montserrat:ital,wght@0,700;1,300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 
 * {
     padding: 0;
@@ -91,6 +91,11 @@ a:focus:after {
 }
 
 .text {
+    font-family: 'Roboto Mono', monospace;
+    width: 310px;
+    height: 37px;
+    left: 848px;
+    top: 547px;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -99,6 +104,11 @@ a:focus:after {
 }
 
 .img-block {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
     display: flex;
     height: 100%;
     width: 11.17%;
@@ -163,7 +173,8 @@ header {
 }
 
 
-.text2 {
+.textsecond {
+    font-family: 'Roboto Mono', monospace;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -174,7 +185,7 @@ header {
 }
 
 
-.line2 {
+.linesecond {
     display: inline-block;
     height: 4px;
     width: 60px;
@@ -200,15 +211,15 @@ header {
 }
 
 .name {
-    font-family: 'Montserrat', sans-serif ;
+    font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 17px;
-    
+
     text-align: center;
     font-variant: small-caps;
-    
+
     color: #333333;
     text-align: center;
     margin-top: 30px;
@@ -320,7 +331,7 @@ input::placeholder {
     font-size: 14px;
     line-height: 17px;
     margin-top: 10px;
-    border:none;
+    border: none;
     color: #FFFFFF;
 }
 
@@ -343,7 +354,7 @@ input::placeholder {
     background-color: #B6B6B6;
 }
 
-footer{
+footer {
     display: flex;
     justify-content: center;
 }
@@ -357,7 +368,7 @@ footer{
     text-align: center;
 }
 
-.man{
+.man {
     width: 100%;
     min-height: 470px;
     background-size: cover;
