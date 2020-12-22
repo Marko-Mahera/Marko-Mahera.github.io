@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cont {
+    width: 88.125vw;
+}
+
+.cont-holiday {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-image: url(../img/bc.png);
+    background-position: center;
+    background-size: cover;
+}
+
+nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

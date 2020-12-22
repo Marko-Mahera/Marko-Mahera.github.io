@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Montserrat:ital,wght@0,700;1,300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap');
+
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif; */
 
 * {
     padding: 0;
@@ -91,7 +91,7 @@ a:focus:after {
 }
 
 .text {
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto', sans-serif;
     width: 310px;
     height: 37px;
     left: 848px;
@@ -104,7 +104,7 @@ a:focus:after {
 }
 
 .img-block {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -174,7 +174,7 @@ header {
 
 
 .textsecond {
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -226,7 +226,7 @@ header {
 }
 
 .work {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-style: italic;
     font-weight: 300;
     font-size: 15px;
