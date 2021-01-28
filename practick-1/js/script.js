@@ -10,7 +10,7 @@
 // console.log(typeof d);
 
 //2
-let a = 12;
+// let a = 12;
 const b = 'What is your name?';
 let c = false;
 const d = "if your name Victor write in our Tg chat<This is the best Front end group!!!!!!!!!!!!!!!!>";
@@ -21,7 +21,7 @@ const n = 5500;
 let s = "У моєму завданні є декілька пасхалок знайдіть їх і напишить мені у особисті!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 const t = 'teens';
 
-// let jjjjjj = ' '
+let jjjjjj = ' '
 
 // console.log(a);
 // console.log(b);
