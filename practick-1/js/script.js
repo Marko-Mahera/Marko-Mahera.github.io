@@ -1,8 +1,8 @@
 //1
-// let a = 'Привіт';
-// let b = 123;
-// let c = true;
-// let d = 'true';
+// let str = 'Привіт';
+// let num = 123;
+// let flag = true;
+// let txt = 'true';
 
 // console.log(typeof a);
 // console.log(typeof b);
@@ -11,17 +11,17 @@
 
 //2
 // let a = 12;
-const b = 'What is your name?';
-let c = false;
-const d = "if your name Victor write in our Tg chat<This is the best Front end group!!!!!!!!!!!!!!!!>";
-let e = 27012021;
-const f = "Meine name ist Marko";
-let m = true;
-const n = 5500;
-let s = "У моєму завданні є декілька пасхалок знайдіть їх і напишить мені у особисті!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-const t = 'teens';
+const strA = 'What is your name?';
+let fragA = false;
+const textA = "if your name Victor write in our Tg chat<This is the best Front end group!!!!!!!!!!!!!!!!>";
+let numA = 27012021;
+const strB = "Meine name ist Marko";
+let fragB = true;
+const numB = 5500;
+let textB = "У моєму завданні є декілька пасхалок знайдіть їх і напишить мені у особисті!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+const strC = 'teens';
 
-let jjjjjj = ' '
+let textC = ' '
 
 // console.log(a);
 // console.log(b);
@@ -35,12 +35,12 @@ let jjjjjj = ' '
 // console.log(t);
 // console.log(jjjjjj);
 
-console.log(typeof a);
-console.log(typeof b);
-console.log(typeof c);
-console.log(typeof e);
-console.log(typeof f);
-console.log(typeof m);
-console.log(typeof n);
-console.log(typeof s);
-console.log(typeof t);
+console.log(typeof strA);
+console.log(typeof fragA);
+console.log(typeof textA);
+console.log(typeof numA);
+console.log(typeof strB);
+console.log(typeof fragB);
+console.log(typeof numB);
+console.log(typeof textB);
+console.log(typeof strC);

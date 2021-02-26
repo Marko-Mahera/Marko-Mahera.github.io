@@ -40,19 +40,19 @@
 //6
 // let h = 23;
 // let w = 10;
-// let cm = 'см';
-// let s = h + w ;
+// let s = h * w ;
 
-// console.log(s + cm);
+// console.log(s);
 
-//7
+// // 7
 // let heightC = 10;
 // let dC = 4;
-// let rC = dC - 2;
-// console.log(rC ** 2 * 10 + 'м');
+// let rC = dC / 2;
+// let pi = 3.14
+// console.log( pi * rC ** 2 * 10 + 'м');
 
 //8
 // let n = 3;
 // let m = 4;
-// let k = n ** 2 + m ** 2;
-// console.log("Гіпотенуза = ", k / 5)
+// let k = Math.pow((n ** 2) + (m ** 2));
+// console.log("Гіпотенуза = ", k)
