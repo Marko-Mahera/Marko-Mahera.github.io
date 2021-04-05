@@ -1,5 +1,5 @@
 //1
-// let number = 0;
+// let number = 1;
 
 // while (number <= 10) {
 //   console.log(number);
@@ -7,7 +7,7 @@
 // }
 
 // 2
-// for (let num = 0; num <= 10; num += 1) {
+// for (let num = 1; num <= 10; num += 1) {
 //   if (num % 2 === 0){
 //       console.log("Це число парне!2!");
 //   } else { 
