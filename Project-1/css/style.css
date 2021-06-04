@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 1440px;
+    height: 70px;
+    /* width: 100%; */
+    display: flex;
+    justify-content: center;
+    background-color: #C8DCFF;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    /* font-size: 19px; */
+    /* line-height: 53px; */
+
+}
+
+header .container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container{
+    width: 80%;
+    /* min-width: 800px; */
+}
+
+h1 {
+    margin-left: 137px;
+    margin-bottom: 71px;
+}
+
+.save_a,
+.save_b,
+.save_c {
+    width: 100px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    border-radius: 35px;
+    margin-left: 1px;
+    color: #FFFFFF;
+    background-color: rgb(19, 46, 141);
+    margin-left: 109px;
+}
+
+.container,
+.logo {
+    width: 85%;
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: space-between; */
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+a{
+    outline: none;
+    text-decoration: none;
+    /* width: 444px;
+    height: 53px;
+    width: 31%;
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+    /* margin-right: 93px;
+    margin-top: 8px;
+    margin-bottom: 9px; */
+     color: rgba(0, 56, 255, 0.65); 
+    font-size: 28px;
+    line-height: 53px;
+    font-family: 'M PLUS Rounded 1c', sans-serif; 
+}
+
+.cont_about {
+    width: 444px;
+    height: 53px;
+    width: 31%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 93px;
+    margin-top: 8px;
+    margin-bottom: 9px;
+    color: rgba(0, 56, 255, 0.65);
+    font-size: 26px;
+    line-height: 53px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.name,
+.desc {
+    background-color: #C8DCFF;
+}
+
+.H,
+.M,
+.l {
+    box-shadow: 0px 0px 5px 1px;
+    font-size: 18px;
+    line-height: 27px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+main {
+    width: 100%;
+    margin-left: 117px;
+    margin-bottom: 50px;
+    /* display: flex; */
+    justify-content: center;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    /* margin-left: 500px; */
+}
+
+h3 {
+    margin-left: 115px;
+}
+
+/* 
+.prj,
+.us {
+     width: 31%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}  */
+
+/* .save_a, */
+.Add_new_a {
+    width: 300px;
+    height: 57px;
+    background-color: rgba(0, 56, 255, 0.7);
+    border-radius: 35px;
+    color: #FFFFFF;
+    font-size: 24px;
+    line-height: 36px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+/* .save_b, */
+.Add_new_b {
+    width: 300px;
+    height: 57px;
+    background-color: rgba(255, 153, 0, 0.7);
+    border-radius: 35px;
+    color: #FFFFFF;
+    font-size: 24px;
+    line-height: 36px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+/* .save_c, */
+.Add_new_c {
+    width: 300px;
+    height: 57px;
+    background-color: rgba(90, 205, 71, 0.7);
+    border-radius: 35px;
+    color: #FFFFFF;
+    font-size: 24px;
+    line-height: 36px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.prj {
+    margin-right: 50px;
+}
+
+.column {
+    margin-bottom: 27px;
+    background-color: #C8DCFF;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+h4 {
+    margin-bottom: 55px;
+    /* background-color: #C8DCFF; */
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+footer {
+    width: 1440px;
+    height: 50px;
+    background-color: #C8DCFF;
+    display: flex;
+    /* justify-content: end; */
+    align-items: end;
+}
+
+.instagram_logo,
+.twitter_logo {
+    margin-right: 15px;
+}
